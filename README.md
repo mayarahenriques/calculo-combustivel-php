@@ -6,15 +6,18 @@ Também implementei a validação de números e tratamento de erros, para o caso
 
 Esta aplicação leva em consideração os seguintes valores para o cálculo:
 
+<p align="center">
 Autonomia do carro (média de litros gastos por quilômetro rodado)
 
-Distância percorrida
-Valor do combustível
+- Distância percorrida
+- Valor do combustível
+- 
 Definimos no escopo da aplicação que o cálculo será feito com três combustíveis:
 
-Álcool
-Diesel
-Gasolina
+- Álcool
+- Diesel
+- Gasolina
+</p>
 
 # Tecnologias utilizadas
 
