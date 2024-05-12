@@ -4,11 +4,11 @@ Desenvolvimento de uma aplicação que possui um formulário para o cálculo do 
 Também pude praticar a utilização de formulários em PHP, que são a principal forma de se receber dados vindos do front-end.
 Também implementei a validação de números e tratamento de erros, para o caso de entradas de números não válidos.
 
-Esta aplicação leva em consideração os seguintes valores para o cálculo:
 
 <p align="center">
-Autonomia do carro (média de litros gastos por quilômetro rodado)
+Esta aplicação leva em consideração os seguintes valores para o cálculo:
 
+- Autonomia do carro (média de litros gastos por quilômetro rodado)
 - Distância percorrida
 - Valor do combustível
 
@@ -25,14 +25,12 @@ Definimos no escopo da aplicação que o cálculo será feito com três combust�
 
 # Imagens do projeto
 
-> Agenda
-![agenda1](https://github.com/mayarahenriques/agendaprojeto/assets/120487777/a8733262-4214-4ea3-919e-d19d29d72215)
-> Criar contato
-![criar](https://github.com/mayarahenriques/agendaprojeto/assets/120487777/ed4b14ff-68e2-4e22-8d06-0fa55272ef3c)
-> Deletar contato
-![deletar](https://github.com/mayarahenriques/agendaprojeto/assets/120487777/729ec941-a532-4ea1-bb18-a8a1e690c950)
-> Editar contato
-![editar](https://github.com/mayarahenriques/agendaprojeto/assets/120487777/a31a9076-50e6-4a7d-8644-ad5e46bcf1d9)
+> Página inicial da aplicação
+![tela1](https://github.com/mayarahenriques/calculo-combustivel-php/blob/main/tela1.jpg)
+> Resultado do cálculo realizado
+![tela2](https://github.com/mayarahenriques/calculo-combustivel-php/blob/main/tela2.jpg)
+> Mensagem gerada quando números inválidos são dados como entrada. 
+![tela3](https://github.com/mayarahenriques/calculo-combustivel-php/blob/main/tela3.jpg)
 
 # Contato
 
