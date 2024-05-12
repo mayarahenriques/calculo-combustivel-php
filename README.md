@@ -29,7 +29,7 @@ Definimos no escopo da aplicação que o cálculo será feito com três combust�
 ![tela1](https://github.com/mayarahenriques/calculo-combustivel-php/blob/main/tela1.jpg)
 > Resultado do cálculo realizado
 ![tela2](https://github.com/mayarahenriques/calculo-combustivel-php/blob/main/tela2.jpg)
-> Mensagem gerada quando números inválidos são dados como entrada. 
+> Mensagem gerada quando números inválidos são inseridos. 
 ![tela3](https://github.com/mayarahenriques/calculo-combustivel-php/blob/main/tela3.jpg)
 
 # Contato
