@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Desenvolvi uma aplicação que apresenta um formulário para calcular os gastos em reais (R$) com o consumo de combustível de um veículo. Neste projeto, apliquei meu conhecimento em PHP, HTML e CSS. Além disso, pratiquei a utilização de formulários em PHP, que constituem a principal maneira de receber dados do front-end. Também implementei a validação de números e o tratamento de erros para lidar com entradas de números inválidos.
+Desenvolvimento de uma aplicação que apresenta um formulário para calcular os gastos em reais (R$) com o consumo de combustível de um veículo. Neste projeto, apliquei meu conhecimento em PHP, HTML e CSS. Além disso, pratiquei a utilização de formulários em PHP, que constituem a principal maneira de receber dados do front-end. Também implementei a validação de números e o tratamento de erros para lidar com entradas de números inválidos.
 
 
 <p align="center">
