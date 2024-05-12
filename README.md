@@ -6,6 +6,7 @@ Também implementei a validação de números e tratamento de erros, para o caso
 
 
 <p align="center">
+
 Esta aplicação leva em consideração os seguintes valores para o cálculo:
 
 - Autonomia do carro (média de litros gastos por quilômetro rodado)
